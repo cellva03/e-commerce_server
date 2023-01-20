@@ -1,6 +1,6 @@
 // importing all the  libraries
 const User = require('../models/userModel');    
-const auth = require('../Auth/auth');
+const auth = require('../auth/auth');
 const Product = require('../models/productModel');
 const Sales = require('../models/salesModel');
 const mongoose = require('mongoose');
